@@ -1,0 +1,322 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\.net projects\\InventoryManagementSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2B2602CA-B8A8-405E-BD87-99E373DC0B98}|InventoryManagementSystem\\InventoryManagementSystem.csproj|D:\\.net projects\\InventoryManagementSystem\\inventorymanagementsystem\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2B2602CA-B8A8-405E-BD87-99E373DC0B98}|InventoryManagementSystem\\InventoryManagementSystem.csproj|solutionrelative:inventorymanagementsystem\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B2602CA-B8A8-405E-BD87-99E373DC0B98}|InventoryManagementSystem\\InventoryManagementSystem.csproj|d:\\.net projects\\inventorymanagementsystem\\inventorymanagementsystem\\categoryform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B2602CA-B8A8-405E-BD87-99E373DC0B98}|InventoryManagementSystem\\InventoryManagementSystem.csproj|solutionrelative:inventorymanagementsystem\\categoryform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B2602CA-B8A8-405E-BD87-99E373DC0B98}|InventoryManagementSystem\\InventoryManagementSystem.csproj|D:\\.net projects\\InventoryManagementSystem\\inventorymanagementsystem\\categorymoduleform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2B2602CA-B8A8-405E-BD87-99E373DC0B98}|InventoryManagementSystem\\InventoryManagementSystem.csproj|solutionrelative:inventorymanagementsystem\\categorymoduleform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B2602CA-B8A8-405E-BD87-99E373DC0B98}|InventoryManagementSystem\\InventoryManagementSystem.csproj|d:\\.net projects\\inventorymanagementsystem\\inventorymanagementsystem\\categoryform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2B2602CA-B8A8-405E-BD87-99E373DC0B98}|InventoryManagementSystem\\InventoryManagementSystem.csproj|solutionrelative:inventorymanagementsystem\\categoryform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B2602CA-B8A8-405E-BD87-99E373DC0B98}|InventoryManagementSystem\\InventoryManagementSystem.csproj|D:\\.net projects\\InventoryManagementSystem\\inventorymanagementsystem\\customerforms.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2B2602CA-B8A8-405E-BD87-99E373DC0B98}|InventoryManagementSystem\\InventoryManagementSystem.csproj|solutionrelative:inventorymanagementsystem\\customerforms.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B2602CA-B8A8-405E-BD87-99E373DC0B98}|InventoryManagementSystem\\InventoryManagementSystem.csproj|D:\\.net projects\\InventoryManagementSystem\\inventorymanagementsystem\\productform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2B2602CA-B8A8-405E-BD87-99E373DC0B98}|InventoryManagementSystem\\InventoryManagementSystem.csproj|solutionrelative:inventorymanagementsystem\\productform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B2602CA-B8A8-405E-BD87-99E373DC0B98}|InventoryManagementSystem\\InventoryManagementSystem.csproj|D:\\.net projects\\InventoryManagementSystem\\inventorymanagementsystem\\productform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B2602CA-B8A8-405E-BD87-99E373DC0B98}|InventoryManagementSystem\\InventoryManagementSystem.csproj|solutionrelative:inventorymanagementsystem\\productform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B2602CA-B8A8-405E-BD87-99E373DC0B98}|InventoryManagementSystem\\InventoryManagementSystem.csproj|D:\\.net projects\\InventoryManagementSystem\\inventorymanagementsystem\\ordermoduleform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2B2602CA-B8A8-405E-BD87-99E373DC0B98}|InventoryManagementSystem\\InventoryManagementSystem.csproj|solutionrelative:inventorymanagementsystem\\ordermoduleform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B2602CA-B8A8-405E-BD87-99E373DC0B98}|InventoryManagementSystem\\InventoryManagementSystem.csproj|D:\\.net projects\\InventoryManagementSystem\\inventorymanagementsystem\\welcomeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B2602CA-B8A8-405E-BD87-99E373DC0B98}|InventoryManagementSystem\\InventoryManagementSystem.csproj|solutionrelative:inventorymanagementsystem\\welcomeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B2602CA-B8A8-405E-BD87-99E373DC0B98}|InventoryManagementSystem\\InventoryManagementSystem.csproj|D:\\.net projects\\InventoryManagementSystem\\inventorymanagementsystem\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B2602CA-B8A8-405E-BD87-99E373DC0B98}|InventoryManagementSystem\\InventoryManagementSystem.csproj|solutionrelative:inventorymanagementsystem\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B2602CA-B8A8-405E-BD87-99E373DC0B98}|InventoryManagementSystem\\InventoryManagementSystem.csproj|D:\\.net projects\\InventoryManagementSystem\\inventorymanagementsystem\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B2602CA-B8A8-405E-BD87-99E373DC0B98}|InventoryManagementSystem\\InventoryManagementSystem.csproj|solutionrelative:inventorymanagementsystem\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B2602CA-B8A8-405E-BD87-99E373DC0B98}|InventoryManagementSystem\\InventoryManagementSystem.csproj|D:\\.net projects\\InventoryManagementSystem\\inventorymanagementsystem\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2B2602CA-B8A8-405E-BD87-99E373DC0B98}|InventoryManagementSystem\\InventoryManagementSystem.csproj|solutionrelative:inventorymanagementsystem\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B2602CA-B8A8-405E-BD87-99E373DC0B98}|InventoryManagementSystem\\InventoryManagementSystem.csproj|D:\\.net projects\\InventoryManagementSystem\\inventorymanagementsystem\\welcomeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2B2602CA-B8A8-405E-BD87-99E373DC0B98}|InventoryManagementSystem\\InventoryManagementSystem.csproj|solutionrelative:inventorymanagementsystem\\welcomeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B2602CA-B8A8-405E-BD87-99E373DC0B98}|InventoryManagementSystem\\InventoryManagementSystem.csproj|D:\\.net projects\\InventoryManagementSystem\\inventorymanagementsystem\\usermoduleform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2B2602CA-B8A8-405E-BD87-99E373DC0B98}|InventoryManagementSystem\\InventoryManagementSystem.csproj|solutionrelative:inventorymanagementsystem\\usermoduleform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B2602CA-B8A8-405E-BD87-99E373DC0B98}|InventoryManagementSystem\\InventoryManagementSystem.csproj|D:\\.net projects\\InventoryManagementSystem\\inventorymanagementsystem\\userform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2B2602CA-B8A8-405E-BD87-99E373DC0B98}|InventoryManagementSystem\\InventoryManagementSystem.csproj|solutionrelative:inventorymanagementsystem\\userform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B2602CA-B8A8-405E-BD87-99E373DC0B98}|InventoryManagementSystem\\InventoryManagementSystem.csproj|D:\\.net projects\\InventoryManagementSystem\\inventorymanagementsystem\\customermoduleform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2B2602CA-B8A8-405E-BD87-99E373DC0B98}|InventoryManagementSystem\\InventoryManagementSystem.csproj|solutionrelative:inventorymanagementsystem\\customermoduleform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B2602CA-B8A8-405E-BD87-99E373DC0B98}|InventoryManagementSystem\\InventoryManagementSystem.csproj|D:\\.net projects\\InventoryManagementSystem\\inventorymanagementsystem\\customerbutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2B2602CA-B8A8-405E-BD87-99E373DC0B98}|InventoryManagementSystem\\InventoryManagementSystem.csproj|solutionrelative:inventorymanagementsystem\\customerbutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B2602CA-B8A8-405E-BD87-99E373DC0B98}|InventoryManagementSystem\\InventoryManagementSystem.csproj|D:\\.net projects\\InventoryManagementSystem\\inventorymanagementsystem\\productmoduleform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2B2602CA-B8A8-405E-BD87-99E373DC0B98}|InventoryManagementSystem\\InventoryManagementSystem.csproj|solutionrelative:inventorymanagementsystem\\productmoduleform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B2602CA-B8A8-405E-BD87-99E373DC0B98}|InventoryManagementSystem\\InventoryManagementSystem.csproj|D:\\.net projects\\InventoryManagementSystem\\inventorymanagementsystem\\orderform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2B2602CA-B8A8-405E-BD87-99E373DC0B98}|InventoryManagementSystem\\InventoryManagementSystem.csproj|solutionrelative:inventorymanagementsystem\\orderform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CategoryForm.cs",
+              "DocumentMoniker": "D:\\.net projects\\InventoryManagementSystem\\InventoryManagementSystem\\CategoryForm.cs",
+              "RelativeDocumentMoniker": "InventoryManagementSystem\\CategoryForm.cs",
+              "ToolTip": "D:\\.net projects\\InventoryManagementSystem\\InventoryManagementSystem\\CategoryForm.cs",
+              "RelativeToolTip": "InventoryManagementSystem\\CategoryForm.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAowEcAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T08:33:28.401Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CustomerForms.cs [Design]",
+              "DocumentMoniker": "D:\\.net projects\\InventoryManagementSystem\\InventoryManagementSystem\\CustomerForms.cs",
+              "RelativeDocumentMoniker": "InventoryManagementSystem\\CustomerForms.cs",
+              "ToolTip": "D:\\.net projects\\InventoryManagementSystem\\InventoryManagementSystem\\CustomerForms.cs [Design]",
+              "RelativeToolTip": "InventoryManagementSystem\\CustomerForms.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T08:00:57.228Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CategoryModuleForm.cs [Design]",
+              "DocumentMoniker": "D:\\.net projects\\InventoryManagementSystem\\InventoryManagementSystem\\CategoryModuleForm.cs",
+              "RelativeDocumentMoniker": "InventoryManagementSystem\\CategoryModuleForm.cs",
+              "ToolTip": "D:\\.net projects\\InventoryManagementSystem\\InventoryManagementSystem\\CategoryModuleForm.cs [Design]",
+              "RelativeToolTip": "InventoryManagementSystem\\CategoryModuleForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T15:16:45.971Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProductForm.cs [Design]",
+              "DocumentMoniker": "D:\\.net projects\\InventoryManagementSystem\\InventoryManagementSystem\\ProductForm.cs",
+              "RelativeDocumentMoniker": "InventoryManagementSystem\\ProductForm.cs",
+              "ToolTip": "D:\\.net projects\\InventoryManagementSystem\\InventoryManagementSystem\\ProductForm.cs [Design]",
+              "RelativeToolTip": "InventoryManagementSystem\\ProductForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T14:38:00.704Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainForm.cs [Design]",
+              "DocumentMoniker": "D:\\.net projects\\InventoryManagementSystem\\InventoryManagementSystem\\MainForm.cs",
+              "RelativeDocumentMoniker": "InventoryManagementSystem\\MainForm.cs",
+              "ToolTip": "D:\\.net projects\\InventoryManagementSystem\\InventoryManagementSystem\\MainForm.cs [Design]*",
+              "RelativeToolTip": "InventoryManagementSystem\\MainForm.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T15:10:54.296Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CategoryForm.cs [Design]",
+              "DocumentMoniker": "D:\\.net projects\\InventoryManagementSystem\\InventoryManagementSystem\\CategoryForm.cs",
+              "RelativeDocumentMoniker": "InventoryManagementSystem\\CategoryForm.cs",
+              "ToolTip": "D:\\.net projects\\InventoryManagementSystem\\InventoryManagementSystem\\CategoryForm.cs [Design]",
+              "RelativeToolTip": "InventoryManagementSystem\\CategoryForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T08:30:01.442Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProductForm.cs",
+              "DocumentMoniker": "D:\\.net projects\\InventoryManagementSystem\\InventoryManagementSystem\\ProductForm.cs",
+              "RelativeDocumentMoniker": "InventoryManagementSystem\\ProductForm.cs",
+              "ToolTip": "D:\\.net projects\\InventoryManagementSystem\\InventoryManagementSystem\\ProductForm.cs",
+              "RelativeToolTip": "InventoryManagementSystem\\ProductForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADUAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T05:50:09.829Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "WelcomeForm.cs",
+              "DocumentMoniker": "D:\\.net projects\\InventoryManagementSystem\\InventoryManagementSystem\\WelcomeForm.cs",
+              "RelativeDocumentMoniker": "InventoryManagementSystem\\WelcomeForm.cs",
+              "ToolTip": "D:\\.net projects\\InventoryManagementSystem\\InventoryManagementSystem\\WelcomeForm.cs",
+              "RelativeToolTip": "InventoryManagementSystem\\WelcomeForm.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAAC4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T17:53:03.576Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "OrderModuleForm.cs [Design]",
+              "DocumentMoniker": "D:\\.net projects\\InventoryManagementSystem\\InventoryManagementSystem\\OrderModuleForm.cs",
+              "RelativeDocumentMoniker": "InventoryManagementSystem\\OrderModuleForm.cs",
+              "ToolTip": "D:\\.net projects\\InventoryManagementSystem\\InventoryManagementSystem\\OrderModuleForm.cs [Design]",
+              "RelativeToolTip": "InventoryManagementSystem\\OrderModuleForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T14:54:29.022Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "D:\\.net projects\\InventoryManagementSystem\\InventoryManagementSystem\\MainForm.cs",
+              "RelativeDocumentMoniker": "InventoryManagementSystem\\MainForm.cs",
+              "ToolTip": "D:\\.net projects\\InventoryManagementSystem\\InventoryManagementSystem\\MainForm.cs*",
+              "RelativeToolTip": "InventoryManagementSystem\\MainForm.cs*",
+              "ViewState": "AgIAACgAAAAAAAAAAAAewD0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T11:56:13.197Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "LoginForm.cs",
+              "DocumentMoniker": "D:\\.net projects\\InventoryManagementSystem\\InventoryManagementSystem\\LoginForm.cs",
+              "RelativeDocumentMoniker": "InventoryManagementSystem\\LoginForm.cs",
+              "ToolTip": "D:\\.net projects\\InventoryManagementSystem\\InventoryManagementSystem\\LoginForm.cs",
+              "RelativeToolTip": "InventoryManagementSystem\\LoginForm.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAGgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T09:55:40.763Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "LoginForm.cs [Design]",
+              "DocumentMoniker": "D:\\.net projects\\InventoryManagementSystem\\InventoryManagementSystem\\LoginForm.cs",
+              "RelativeDocumentMoniker": "InventoryManagementSystem\\LoginForm.cs",
+              "ToolTip": "D:\\.net projects\\InventoryManagementSystem\\InventoryManagementSystem\\LoginForm.cs [Design]",
+              "RelativeToolTip": "InventoryManagementSystem\\LoginForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T09:55:38.05Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "WelcomeForm.cs [Design]",
+              "DocumentMoniker": "D:\\.net projects\\InventoryManagementSystem\\InventoryManagementSystem\\WelcomeForm.cs",
+              "RelativeDocumentMoniker": "InventoryManagementSystem\\WelcomeForm.cs",
+              "ToolTip": "D:\\.net projects\\InventoryManagementSystem\\InventoryManagementSystem\\WelcomeForm.cs [Design]",
+              "RelativeToolTip": "InventoryManagementSystem\\WelcomeForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T15:21:39.615Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "UserForm.cs [Design]",
+              "DocumentMoniker": "D:\\.net projects\\InventoryManagementSystem\\InventoryManagementSystem\\UserForm.cs",
+              "RelativeDocumentMoniker": "InventoryManagementSystem\\UserForm.cs",
+              "ToolTip": "D:\\.net projects\\InventoryManagementSystem\\InventoryManagementSystem\\UserForm.cs [Design]",
+              "RelativeToolTip": "InventoryManagementSystem\\UserForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T10:28:08.802Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UserModuleForm.cs [Design]",
+              "DocumentMoniker": "D:\\.net projects\\InventoryManagementSystem\\InventoryManagementSystem\\UserModuleForm.cs",
+              "RelativeDocumentMoniker": "InventoryManagementSystem\\UserModuleForm.cs",
+              "ToolTip": "D:\\.net projects\\InventoryManagementSystem\\InventoryManagementSystem\\UserModuleForm.cs [Design]",
+              "RelativeToolTip": "InventoryManagementSystem\\UserModuleForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T14:33:35.017Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CustomerModuleForm.cs [Design]",
+              "DocumentMoniker": "D:\\.net projects\\InventoryManagementSystem\\InventoryManagementSystem\\CustomerModuleForm.cs",
+              "RelativeDocumentMoniker": "InventoryManagementSystem\\CustomerModuleForm.cs",
+              "ToolTip": "D:\\.net projects\\InventoryManagementSystem\\InventoryManagementSystem\\CustomerModuleForm.cs [Design]",
+              "RelativeToolTip": "InventoryManagementSystem\\CustomerModuleForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T15:10:58.695Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CustomerButton.cs [Design]",
+              "DocumentMoniker": "D:\\.net projects\\InventoryManagementSystem\\InventoryManagementSystem\\CustomerButton.cs",
+              "RelativeDocumentMoniker": "InventoryManagementSystem\\CustomerButton.cs",
+              "ToolTip": "D:\\.net projects\\InventoryManagementSystem\\InventoryManagementSystem\\CustomerButton.cs [Design]",
+              "RelativeToolTip": "InventoryManagementSystem\\CustomerButton.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T15:16:43.201Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ProductModuleForm.cs [Design]",
+              "DocumentMoniker": "D:\\.net projects\\InventoryManagementSystem\\InventoryManagementSystem\\ProductModuleForm.cs",
+              "RelativeDocumentMoniker": "InventoryManagementSystem\\ProductModuleForm.cs",
+              "ToolTip": "D:\\.net projects\\InventoryManagementSystem\\InventoryManagementSystem\\ProductModuleForm.cs [Design]",
+              "RelativeToolTip": "InventoryManagementSystem\\ProductModuleForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T14:46:57.813Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "OrderForm.cs [Design]",
+              "DocumentMoniker": "D:\\.net projects\\InventoryManagementSystem\\InventoryManagementSystem\\OrderForm.cs",
+              "RelativeDocumentMoniker": "InventoryManagementSystem\\OrderForm.cs",
+              "ToolTip": "D:\\.net projects\\InventoryManagementSystem\\InventoryManagementSystem\\OrderForm.cs [Design]",
+              "RelativeToolTip": "InventoryManagementSystem\\OrderForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T15:07:41.448Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
