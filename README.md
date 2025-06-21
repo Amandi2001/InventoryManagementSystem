@@ -6,7 +6,7 @@ A powerful and user-friendly Inventory Management System built using C# Web Form
 
  Features
 
-User Management 
+**User Management**  
 
 Add, view, and manage users who can access the system.
 
